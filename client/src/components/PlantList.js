@@ -10,7 +10,7 @@ export default class PlantList extends Component {
   
   state={
     plants:[]
-  }
+  };
 
 
 
